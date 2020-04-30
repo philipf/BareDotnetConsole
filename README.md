@@ -2,6 +2,8 @@
 
 A quick .NET Core 3.1 template for a console app with DI configured.
 
+![.NET Core](https://github.com/philipf/BareDotnetConsole/workflows/.NET%20Core/badge.svg)
+
 ## Quick setup
 Copy and paste to get going quickly.
 
@@ -12,6 +14,11 @@ cd ./ConsoleApp
 dotnet build
 code .
 ```
+
+## Prerequisites
+- Git
+- .NET Core 3.1 SDK
+- VS Code
 
 ## Referenced libraries
 Optional, install or run `dotnet restore`
