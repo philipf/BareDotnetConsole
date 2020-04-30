@@ -26,5 +26,5 @@ Optional, install or run `dotnet restore`
 ```
  dotnet add package Microsoft.Extensions.DependencyInjection
  dotnet add package Microsoft.Extensions.Logging
- Microsoft.Extensions.Logging.Console
+ dotnet add package Microsoft.Extensions.Logging.Console
  ```
